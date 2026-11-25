@@ -13,3 +13,6 @@
 <a href="https://freecodecamp.org/certification/cduffy125/responsive-web-design-v9">
   <img src="./assets/freecodecamp-responsive-web-design-v9.png" alt="freeCodeCamp Responsive Web Design Developer Certification" width="400" />
 </a>
+<a href="https://www.freecodecamp.org/certification/cduffy125/responsive-web-design-v9">
+  <img src="./certifications/freecodecamp-responsive-web-design-v9.png" alt="freeCodeCamp Responsive Web Design Developer Certification" width="400" />
+</a>
