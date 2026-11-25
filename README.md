@@ -1,4 +1,5 @@
 [![Boot.dev Learn Git certificate](https://api.boot.dev/v1/static/certificate/1b9d6a39-b1d8-494c-8631-7efdb0b87da6)](https://www.boot.dev/certificates/1b9d6a39-b1d8-494c-8631-7efdb0b87da6)
+[![Boot.dev Learn Linux certificate](https://api.boot.dev/v1/static/certificate/c789ea11-2e4f-46a0-8166-4a6f89393769?v=1)](https://www.boot.dev/certificates/c789ea11-2e4f-46a0-8166-4a6f89393769)
 
 <!--
 **Duffy125/Duffy125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
