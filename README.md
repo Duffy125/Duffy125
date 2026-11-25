@@ -11,5 +11,5 @@
   <img src="https://api.boot.dev/v1/static/certificate/41e48cd4-0174-4814-b6ae-5bfaf77febab" alt="Boot.dev Introduction to Python Course certificate" width="400" />
 </a>
 <a href="https://freecodecamp.org/certification/cduffy125/responsive-web-design-v9">
-  <img src="freecodecamp-responsive-web-design-v9.png" width="400" alt="freeCodeCamp Responsive Web Design Certification">
+  <img src="responsive-web-design.png" width="400" alt="freeCodeCamp Responsive Web Design Certification">
 </a>
