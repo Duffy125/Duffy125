@@ -10,3 +10,4 @@
 <a href="https://www.boot.dev/certificates/41e48cd4-0174-4814-b6ae-5bfaf77febab">
   <img src="https://api.boot.dev/v1/static/certificate/41e48cd4-0174-4814-b6ae-5bfaf77febab" alt="Boot.dev Introduction to Python Course certificate" width="400" />
 </a>
+[![freeCodeCamp: Responsive Web Design](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/cduffy125/responsive-web-design-v9)
